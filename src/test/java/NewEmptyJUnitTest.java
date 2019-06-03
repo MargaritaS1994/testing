@@ -13,7 +13,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 /**
- *
+ *Тест на использование математических функций
  * @author user
  */
 public class NewEmptyJUnitTest {
